@@ -4,6 +4,7 @@ Currently looking for a 12-16 week internship starting on May 10th. 😊
 ## Current Projects
 Here are the projects I am currently working on:
 - ### [Learning to FLy in Rust](https://github.com/khtheo/learning_to_fly_rust)
+  -Project from the website [pwy.io](https://pwy.io/posts/learning-to-fly-pt1/), not finished yet
 
 ## Past Projects
 Here are some projects I have completed:
