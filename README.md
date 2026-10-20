@@ -16,9 +16,9 @@ Here are some projects I have completed:
   - **Key Tech:** Node.js, SimConnect API, JavaScript, HTML5 Canvas
  
 - ### [Deep Learning - Flower Classification](https://github.com/khtheo/flower_recognition_project)
-- Image classification model (5 classes, 4,317 images) from **Kaggle** built with **Transfer Learning (MobileNet)** under **TensorFlow/Keras**.
-- Achieved **87.9% validation accuracy** through **fine-tuning** and **data augmentation**.
-- **Key Tech:** TensorFlow, Keras, Scikit-learn, Matplotlib, Kaggle, Transfer Learning.
+  - Image classification model (5 classes, 4,317 images) from **Kaggle** built with **Transfer Learning (MobileNet)** under **TensorFlow/Keras**.
+  - Achieved **87.9% validation accuracy** through **fine-tuning** and **data augmentation**.
+  - **Key Tech:** TensorFlow, Keras, Scikit-learn, Matplotlib, Kaggle, Transfer Learning.
 <!--
 **khtheo/khtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
