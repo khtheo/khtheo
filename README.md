@@ -1,6 +1,6 @@
 ## Hello ! I'm Théo 👋
 I am a 4th-year engineering student in Data Sciences & Artificial Intelligence at ESIEE Paris. 
-Currently looking for a 12-16 week internship starting on May 10th. 😊
+Currently looking for a 12-16 week internship starting on May 10th 2027. 😊
 ## Current Projects
 Here are the projects I am currently working on:
 - ### [Learning to FLy in Rust (private)](https://github.com/khtheo/learning_to_fly_rust)
