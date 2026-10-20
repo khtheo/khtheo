@@ -9,12 +9,12 @@ Here are the projects I am currently working on:
 Here are some projects I have completed:
 - ### [Deep Learning - Flower Classification](https://github.com/khtheo/flower_recognition_project)
 - ### [MSFS Hardware Cockpit & Real-Time Telemetry](https://github.com/ArthurDgl/cockpit-sim)
-  -**Team Project:** Designed and built a physical cessna152 cockpit connected in real-time to Microsoft Flight Simulator.
-  -**My Role - Software Development & Integration:**
+  - **Team Project:** Designed and built a physical cessna152 cockpit connected in real-time to Microsoft Flight Simulator.
+  - **My Role - Software Development & Integration:**
     - Built a **Node.js** backend interfacing directly with **Microsoft Flight Simulator** via the **SimConnect API**.
     - Developed custom digital flight instruments using **HTML5 Canvas**.
     - Handled real-time telemetry, parsing binary buffers for flight variables
-
+  -**Technical Key:** Node.js, SimConnect API, JavaScript, HTML5 Canvas
 <!--
 **khtheo/khtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
