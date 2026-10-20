@@ -9,7 +9,7 @@ Here are the projects I am currently working on:
   - **Data Pipeline:** Extracted and preprocessed species occurence data from [GBIF](https://www.gbif.org/fr/) (Koala, Eucalyptus, Petauroides) alongside with bioclimatic variables from [Worldclim](https://www.worldclim.org/data/worldclim21.html)
   - **Data Processing:** Handled data cleaning, subsampling.
   - **Objective:** Identifying the optimal locations for a **protected wildlife sanctuary** under severe climate change projection (**SSP5-8.5**), not finished yet
-  -**Key Tech:** Python, MaxEnt, Data Processing.
+  - **Key Tech:** Python, MaxEnt, Data Processing.
 ## Past Projects
 Here are some projects I have completed:
 - ### [MSFS Hardware Cockpit & Real-Time Telemetry](https://github.com/ArthurDgl/cockpit-sim)
