@@ -14,7 +14,7 @@ Here are some projects I have completed:
     - Built a **Node.js** backend interfacing directly with **Microsoft Flight Simulator** via the **SimConnect API**.
     - Developed custom digital flight instruments using **HTML5 Canvas**.
     - Handled real-time telemetry, parsing binary buffers for flight variables
-  -**Technical Key:** Node.js, SimConnect API, JavaScript, HTML5 Canvas
+  - **Technical Key:** Node.js, SimConnect API, JavaScript, HTML5 Canvas
 <!--
 **khtheo/khtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
