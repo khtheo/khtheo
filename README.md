@@ -3,9 +3,13 @@ I am a 4th-year engineering student in Data Sciences & Artificial Intelligence a
 Currently looking for a 12-16 week internship starting on May 10th. 😊
 ## Current Projects
 Here are the projects I am currently working on:
-- ### [Learning to FLy in Rust](https://github.com/khtheo/learning_to_fly_rust)
+- ### [Learning to FLy in Rust (private)](https://github.com/khtheo/learning_to_fly_rust)
   - Project from the website [pwy.io](https://pwy.io/posts/learning-to-fly-pt1/), not finished yet
-
+- ### [MaxEnt Project on Species (private) ](https://github.com/khtheo/MaxEnt_project_eucalyptus)
+  - **Data Pipeline:** Extracted and preprocessed species occurence data from [GBIF](https://www.gbif.org/fr/) (Koala, Eucalyptus, Petauroides) alongside with bioclimatic variables from [Worldclim](https://www.worldclim.org/data/worldclim21.html)
+  - **Data Processing:** Handled data cleaning, subsampling.
+  - **Objective:** Identifying the optimal locations for a **protected wildlife sanctuary** under severe climate change projection (**SSP5-8.5**), not finished yet
+  -**Key Tech:** Python, MaxEnt, Data Processing.
 ## Past Projects
 Here are some projects I have completed:
 - ### [MSFS Hardware Cockpit & Real-Time Telemetry](https://github.com/ArthurDgl/cockpit-sim)
