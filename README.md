@@ -1,8 +1,16 @@
 ## Hello ! I'm Théo 👋
 I am a 4th-year engineering student in Data Sciences & Artificial Intelligence at ESIEE Paris. 
 Currently looking for a 12-16 week internship starting on May 10th. 😊
-## Projects
-Here are some projects I've been working on recently.
+## Current Projects
+Here are the projects I am currently working on:
+- ### [Learning to FLy in Rust](https://github.com/khtheo/learning_to_fly_rust)
+
+## Past Projects
+Here are some projects I have completed:
+- ### [Deep Learning - Flower Classification](https://github.com/khtheo/flower_recognition_project)
+- ### [MSFS Cockpit Dashboard](https://github.com/ArthurDgl/cockpit-sim)
+
+
 
 <!--
 **khtheo/khtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
