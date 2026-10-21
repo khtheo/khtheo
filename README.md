@@ -5,7 +5,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-khuoy) 
 
 ## Current Projects
 Here are the projects I am currently working on:
-- ### [Learning to FLy in Rust (private)](https://github.com/khtheo/learning_to_fly_rust)
+- ### [Shorelark Project in Rust (private)](https://github.com/khtheo/learning_to_fly_rust)
   - Project from the website [pwy.io](https://pwy.io/posts/learning-to-fly-pt1/), not finished yet
 - ### [MaxEnt Project on Species (private) ](https://github.com/khtheo/MaxEnt_project_eucalyptus)
   - **Data Pipeline:** Extracted and preprocessed species occurence data from [GBIF](https://www.gbif.org/fr/) (Koala, Eucalyptus, Petauroides) alongside with bioclimatic variables from [Worldclim](https://www.worldclim.org/data/worldclim21.html)
