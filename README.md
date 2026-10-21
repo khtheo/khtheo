@@ -16,7 +16,7 @@ Here are the projects I am currently working on:
 ## Past Projects
 Here are some projects I have completed:
 - ### [MSFS Hardware Cockpit & Real-Time Telemetry](https://github.com/ArthurDgl/cockpit-sim)
-  - **Team Project:** Designed and built a physical cessna152 cockpit connected in real-time to Microsoft Flight Simulator. ![Image There](journée_des_projets.png)
+  - **Team Project:** Designed and built a physical cessna152 cockpit connected in real-time to Microsoft Flight Simulator. 
   - **My Role - Software Development & Integration:**
     - Built a **Node.js** backend interfacing directly with **Microsoft Flight Simulator** via the **SimConnect API**.
     - Developed custom digital flight instruments using **HTML5 Canvas**.
