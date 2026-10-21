@@ -5,7 +5,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-khuoy) 
 
 ## Current Projects
 Here are the projects I am currently working on:
-- ### [Shorelark Project in Rust (private)](https://github.com/khtheo/learning_to_fly_rust)
+- ### [Shorelark Project in Rust](https://github.com/khtheo/learning_to_fly_rust)
   - Project from the website [pwy.io](https://pwy.io/posts/learning-to-fly-pt1/), not finished yet
   -  **Key Tech:** Rust, FFNN
 - ### [MaxEnt Project on Species (private) ](https://github.com/khtheo/MaxEnt_project_eucalyptus)
