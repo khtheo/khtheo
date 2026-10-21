@@ -1,6 +1,6 @@
 ## Hello ! I'm Théo 👋
 I am a 4th-year engineering student in Data Sciences & Artificial Intelligence at ESIEE Paris. 
-Currently looking for a 12-16 week internship starting on May 10th 2027. 😊
+Currently looking for a 12-16 week internship starting on May 10th 2027. 😊 <br> 
 You can also find me on [LinkedIn](www.linkedin.com/in/théo-khuoy). 
 
 ## Current Projects
