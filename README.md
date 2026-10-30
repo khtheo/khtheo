@@ -10,7 +10,7 @@ Here are the projects I am currently working on:
   -  **Key Tech:** Rust, FFNN
 ## Past Projects
 Here are some projects I have completed:
-- ### [Introduction to MaxEnt: Modelling and Species distribution](https://github.com/khtheo/MaxEnt_project_eucalyptus)(private)
+- ### [Introduction to MaxEnt: Modelling and Species distribution (private)](https://github.com/khtheo/MaxEnt_project_eucalyptus)
   - **Data Pipeline & Processing :** Extracted and preprocessed species occurence data from [GBIF](https://www.gbif.org/fr/) (Koala, Eucalyptus, Petauroides) alongside with bioclimatic variables from [Worldclim](https://www.worldclim.org/data/worldclim21.html). Handled data cleaning and subsampling.
   - **Modeling:** Trained species distribution models using **MaxEnt (Maximum Entropy)**, followed by data binarization and spacial intersection.
   - **Objective:** Identifying the optimal locations for a **protected wildlife sanctuary** under severe climate change projection (**SSP5-8.5**).
