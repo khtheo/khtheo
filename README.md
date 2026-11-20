@@ -14,7 +14,7 @@ Here are some projects I have completed:
   - **Data Pipeline & Processing :** Extracted and preprocessed species occurence data from [GBIF](https://www.gbif.org/fr/) (Koala, Eucalyptus, Great Glider) alongside with bioclimatic variables from [Worldclim](https://www.worldclim.org/data/worldclim21.html). Handled data cleaning and subsampling.
   - **Modeling:** Trained species distribution models using **MaxEnt (Maximum Entropy)**, followed by data binarization and spacial intersection.
   - **Objective:** Identifying the optimal locations for a **protected wildlife sanctuary** under severe climate change projection (**SSP5-8.5**).
-  - **Key Tech:** Python, MaxEnt, Regression, Data Processing, elapid.
+  - **Key Tech:** Python, MaxEnt, Regression, Data Processing, elapid, Jupyter Notebook.
 - ### [MSFS Hardware Cockpit & Real-Time Telemetry](https://github.com/ArthurDgl/cockpit-sim)
   - **Team Project:** Designed and built a physical cessna152 cockpit connected in real-time to Microsoft Flight Simulator. 
   - **My Role - Software Development & Integration:**
